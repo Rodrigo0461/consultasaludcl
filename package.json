@@ -6,9 +6,9 @@
   "scripts": {
     "linter": "eslint ./"
   },
-  "pre-commit": {
+  "pre-commit": [
     "linter"
-  },
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/mathiasdonoso/consultasaludcl.git"
