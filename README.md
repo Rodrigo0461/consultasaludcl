@@ -10,7 +10,6 @@ npm install consultasaludcl
 
 ## Usage
 
-To add ignored files for node:
 ```
 const consultsaludcl = require('consultasaludcl');
 
